@@ -4,6 +4,8 @@
 
 This repository contains a simple web scraper written in C# as a console application. The scraper fetches the content of a given website, parses the HTML, and writes the inner text of each leaf node to a text file. This project utilizes the [HtmlAgilityPack](https://github.com/zzzprojects/html-agility-pack) library for parsing HTML content.
 
+## Author: Suchayan Mitra
+
 ## Features
 
 - User input for website URL and output folder path
